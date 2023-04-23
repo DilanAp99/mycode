@@ -1,0 +1,2 @@
+# mycode
+C++ doding
